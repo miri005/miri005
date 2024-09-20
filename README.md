@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @miri005
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Boas vindas ao meu perfil 🫀
 
-<!---
-miri005/miri005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Miriã Pereira 
+
+- Eu estou estudando na [Alura](https//www.alura.com.br)
+- Estou me desnvolvendo na linguagem JavaScript
+- Utilizo esse espaço ṕara organização e compartilhamento dos meus projetos desenvolvidos
+
+  ### Você pode entrar em contato comigo 📫
+  miria.pereira.lara@escola.pr.gov.br
+  
+  @poxa_miri007
+
+  ![](https://media.tenor.com/3gCDJLeokCAAAAAi/hololive-sakura-miko.gif)
